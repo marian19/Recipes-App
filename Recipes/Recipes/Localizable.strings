@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  HelloFreshTask
+
+  Created by Marian on 11/21/17.
+  Copyright © 2017 Marian. All rights reserved.
+*/
+"InvalidPassword" = "Please enter a valid password";
+"InvalidEmail" = "Please enter a valid email";
+"LogoutMessage" = "Are you sure you want to log out?";
+"Cancel" = "Cancel";
+"LogOut" = "Log Out";
